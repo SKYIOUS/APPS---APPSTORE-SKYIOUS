@@ -11,6 +11,16 @@ application packages, screenshots, and metadata for published applications.
 
 <!-- Applications will be listed here -->
 
+### test
+
+testy
+
+Platforms: Android, iOS
+
+[View Details](apps/test_one_max)
+
+---
+
 ### tege
 
 tegetest
