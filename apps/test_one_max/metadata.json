@@ -1,0 +1,10 @@
+{
+  "name": "test",
+  "packageName": "test.one.max",
+  "description": "testy",
+  "platforms": ["Android", "iOS"],
+  "category": "Business",
+  "tags": [],
+  "version": "1.0.0",
+  "publishedDate": "2025-04-04"
+}
