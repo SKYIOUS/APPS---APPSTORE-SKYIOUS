@@ -1,0 +1,8 @@
+{
+  "name": "testing",
+  "packageName": "com.testyf.tsfbv",
+  "description": "dcd",
+  "platforms": ["Desktop", "Android"],
+  "version": "1.0.0",
+  "publishedDate": "2025-04-04"
+}
