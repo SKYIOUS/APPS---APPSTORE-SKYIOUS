@@ -11,6 +11,16 @@ application packages, screenshots, and metadata for published applications.
 
 <!-- Applications will be listed here -->
 
+### tege
+
+tegetest
+
+Platforms: Android
+
+[View Details](apps/tege_one_tege)
+
+---
+
 ### testing
 
 dcd
