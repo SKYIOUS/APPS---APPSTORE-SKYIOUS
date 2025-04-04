@@ -1,0 +1,10 @@
+{
+  "name": "tege",
+  "packageName": "tege.one.tege",
+  "description": "tegetest",
+  "platforms": ["Android"],
+  "category": "Productivity",
+  "tags": [],
+  "version": "1.0.0",
+  "publishedDate": "2025-04-04"
+}
